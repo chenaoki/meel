@@ -106,7 +106,7 @@ $(document).ready(function() {
             if (target.length) {
                 $('html,body').animate({
                     scrollTop: target.offset().top
-                }, 2000);
+                }, 2000000);
                 return false;
             }
         }
