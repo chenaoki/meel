@@ -4680,3 +4680,33 @@ Responsive Media Queries
     margin: 20px 0;
   }
 }
+
+
+/* watanabe added */
+
+.logo-title{
+  min-width: 384px;
+}
+
+.logo-title .logo-upper{
+  margin-bottom: 3px;
+  margin-left: 2px;
+}
+
+.logo-title .logo-main{
+  letter-spacing: 2px;
+}
+
+.theme_description{
+  line-height: 1.3; 
+  letter-spacing: 1px;
+}
+
+.theme_img{
+  width: 100%;
+  max-width: 1080px;
+}
+
+.theme_reference{
+  margin-top: 50px;
+}
